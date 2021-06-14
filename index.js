@@ -1,4 +1,4 @@
-const { ArgumentParser } = require('argparse')
+const { ArgumentParser } = require('Argparse')
 const crypto = require('crypto')
 const net = require('net')
 
